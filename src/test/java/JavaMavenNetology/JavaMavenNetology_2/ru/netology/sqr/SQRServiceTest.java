@@ -45,18 +45,3 @@ class SQRServiceTest {
         Assertions.assertEquals(expected, actual);
     }
 }
-
-
-[INFO] -------------------------------------------------------
-[INFO]  T E S T S
-[INFO] -------------------------------------------------------
-[INFO] Running JavaMavenNetology.JavaMavenNetology_2.ru.netology.sqr.SQRServiceTest
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.13 s - in JavaMavenNetology.JavaMavenNetology_2.ru.netology.sqr.SQRServiceTest
-[INFO] 
-[INFO] Results:
-[INFO] 
-[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0
-[INFO] 
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
